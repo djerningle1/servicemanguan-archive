@@ -1,2 +1,14 @@
 # servicemanguan-archive
-HTML page archive and documentation
+
+静态页面保存仓库
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
